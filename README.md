@@ -4,7 +4,7 @@ Appointment scheduling bot that retries scheduling an appointment on https://mex
 
 `npm install`
 
-Replace `<your email>, <your password>, and <your zip code>` with your values
+Replace `<crispycrunchychip@gmail.com>, <Boysmells13!>, and <94110>` with your values
 
 `npm start`
 
